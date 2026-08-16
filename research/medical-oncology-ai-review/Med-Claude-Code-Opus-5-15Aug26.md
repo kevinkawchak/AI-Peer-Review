@@ -1,3 +1,5 @@
+## Med-Claude-Code-Opus-5-15Aug26.md
+
 I have a comprehensive evidence base. Here is the review.
 
 AI Peer Review as a Replacement for Human Review in Medical and Oncology Publishing: A SMART-Framed Status Assessment
