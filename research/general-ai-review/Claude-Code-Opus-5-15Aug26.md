@@ -1,3 +1,5 @@
+## Claude-Code-Opus-5-15Aug26.md
+
 The Status of AI Peer Review as a Replacement for Human Review in Journal Publishing
 A SMART-Framed Review of the 2026 Evidence (through mid-August 2026)
 
