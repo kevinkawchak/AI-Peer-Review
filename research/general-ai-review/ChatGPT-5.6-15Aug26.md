@@ -1,3 +1,5 @@
+## ChatGPT-5.6-15Aug26.md
+
 The 2026 State of AI Peer Review in Scholarly Journals: A SMART-Framework Review
 Abstract
 As of August 15, 2026, artificial intelligence has entered substantive peer-review workflows, but the available 2026 evidence does not support the claim that established scholarly journals have broadly replaced human peer reviewers or human editorial judgment with autonomous AI. The most advanced journal-specific example identified in the 2026 literature is the IEEE Transactions on Medical Imaging (TMI) AI Reviewer trial, whereas large publishing organizations such as Frontiers and Springer Nature primarily employ AI for research-integrity screening, editorial support, reviewer identification, and other bounded tasks. A 2026 survey of 111 publication venues found that, among 48 high-impact medical journals, 58% prohibited reviewer AI use and 38% permitted only partial use; TMI was the sole journal in that sample classified as actively employing AI-assisted reviewing [1]. 
